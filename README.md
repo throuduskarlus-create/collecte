@@ -20,3 +20,7 @@ Karl Throude
 
 Contact
 Mon profil GitHub
+
+Projets à venir
+Analyse exploratoire des données
+Création d'un tableau de bord Power BI
